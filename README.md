@@ -16,7 +16,7 @@ DOCUMENTATION
 2. EDIT ./db/config.php
 
 LOGIN
-USERNAME: admin
+USERNAME: admin <br>
 PASSWORD: 12345678
 
 PREVIEW
