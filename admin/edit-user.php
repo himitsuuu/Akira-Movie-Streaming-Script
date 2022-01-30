@@ -107,7 +107,7 @@ header("location:./");
 	<link rel="stylesheet" href="../plugins/datatable/css/jquery.dataTables.min.css">
 	<link rel="icon" href="../icon/<?php echo AppIcon; ?>" sizes="32x32">
 	<meta name="description" content="<?php echo AppDesc; ?>">
-	<meta name="author" content="Bwire Mashauri">
+	<meta name="author" content="Kimiko">
 	<title><?php echo AppName; ?> – Edit User</title>
 
 </head>
