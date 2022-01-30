@@ -20,7 +20,7 @@ require_once('../const/web-info.php');
 	<link rel="icon" href="icon/<?php echo AppIcon; ?>" sizes="32x32">
 	<meta name="description" content="<?php echo AppDesc; ?>">
 	<meta name="keywords" content="<?php echo AppKeywords; ?>">
-	<meta name="author" content="Bwire Mashauri">
+	<meta name="author" content="Kimiko">
 	<title><?php echo AppName; ?> – Create Account</title>
   <?php require_once('../const/cms_scripts.php'); ?>
 </head>
