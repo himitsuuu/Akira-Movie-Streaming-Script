@@ -15,4 +15,7 @@ DOCUMENTATION
 1. IMPORT km.sql IN YOUR DATABASE
 2. EDIT ./db/config.php
 
+PREVIEW
+https://github.com/himitsuuu/Akira-Movie-Streaming-Script/blob/da409d218234436a221490247f5afb365e9777ad/preview.png
+
 @2022 kimikoapps
