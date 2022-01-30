@@ -17,6 +17,5 @@ DOCUMENTATION
 
 PREVIEW
 https://github.com/himitsuuu/Akira-Movie-Streaming-Script/blob/master/preview.png
-https://github.com/himitsuuu/Akira-Movie-Streaming-Script/blob/master/preview.png
 
 @2022 kimikoapps
