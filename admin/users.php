@@ -43,7 +43,7 @@ require_once('const/users_query.php');
     <link type="text/css" rel="stylesheet" href="../plugins/loader/waitMe.css">
 	<link rel="icon" href="../icon/<?php echo AppIcon; ?>" sizes="32x32">
 	<meta name="description" content="<?php echo AppDesc; ?>">
-	<meta name="author" content="Bwire Mashauri">
+	<meta name="author" content="Kimiko">
 	<title><?php echo AppName; ?> – Users</title>
 
 </head>
