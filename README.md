@@ -15,6 +15,10 @@ DOCUMENTATION
 1. IMPORT km.sql IN YOUR DATABASE
 2. EDIT ./db/config.php
 
+LOGIN
+USERNAME: admin
+PASSWORD: 12345678
+
 PREVIEW
 ![alt text](https://github.com/himitsuuu/Akira-Movie-Streaming-Script/blob/master/preview.png?raw=true)
 
