@@ -16,6 +16,6 @@ DOCUMENTATION
 2. EDIT ./db/config.php
 
 PREVIEW
-https://github.com/himitsuuu/Akira-Movie-Streaming-Script/blob/master/preview.png
+![alt text](https://github.com/himitsuuu/Akira-Movie-Streaming-Script/blob/master/preview.png?raw=true)
 
 @2022 kimikoapps
